@@ -10,7 +10,7 @@
 
 Data/AI Engineer , Data Consultant and Data Governance specialist with 12 years of operational experience in safety-critical railway environments (SNCF). I build data platforms and agentic AI systems designed for regulated industries: banking, insurance, energy, transport.
 
-- 🔭 Currently building **REGARD**, a compliance copilot with deterministic-first agentic architecture (LangGraph, evaluation harness, 28/28 golden test cases)
+- 🔭 Never stop building and learning about Data & AI
 - 🏛️ Deep expertise in **BCBS239** and **DAMA-DMBOK** governance frameworks
 - ⚙️ My philosophy: **determinism first**. LLMs handle only genuinely ambiguous cases; deterministic logic handles the rest. Motivated refusals, source citations and self-checking loops are non-negotiable.
 - 🎓 Master's in Data Engineering / Data Product Management, École des Mines (2026)
